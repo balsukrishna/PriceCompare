@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoldComp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="bt_refresh">Ref</string>
+    <string name ="bt_refresh_all">Refresh All</string>
+    <string name ="txt_hdfc">Today HDFC Rate</string>
+    <string name ="txt_uob">UOB 100gm Gold</string>
+     <string name ="txt_uob_rupee">UOB price in Rupees</string>
+     <string name ="txt_hyd">Hyd 24 C 1gm</string>
+    <string name ="wait">plz wait!!</string>
+    <string name="link_hdfc">
+       http://www.timesofmoney.com/remittance/jsp/remitExchangeRate.jsp?partnerId=HDFC&amp;uiId=HDFC
+    </string>
+    <string name="link_uob">
+       https://uniservices1.uobgroup.com/secure/online_rates/gold_and_silver_prices.jsp?s_pid=HOME201205_eg_quicklnk_ql8
+    </string> 
+        <string name="link_hyd">
+       http://goldratelive.com/live-gold-rate-in-hyderabad.php
+    </string> 
+    
+         <string name ="about">About</string>
+         <string name ="bt_close">Close</string>
+</resources>
